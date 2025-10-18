@@ -1,0 +1,23 @@
+9780141187761,1984,George Orwell,1949
+9780061120084,Fahrenheit 451,Ray Bradbury,1953
+9780451524935,Moby-Dick,Herman Melville,1851
+9780553212419,Pride and Prejudice,Jane Austen,1813
+9780142424179,To Kill a Mockingbird,Harper Lee,1960
+9780679720201,The Great Gatsby,F. Scott Fitzgerald,1925
+9780743273565,The Catcher in the Rye,J.D. Salinger,1951
+9780062316097,The Hobbit,J.R.R. Tolkien,1937
+9780385418959,Brave New World,Aldous Huxley,1932
+9780679783268,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967
+9780544003415,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997
+9780374533556,The Alchemist,Paulo Coelho,1988
+9780553272536,The Lord of the Rings,J.R.R. Tolkien,1954
+9781400034772,The Adventures of Huckleberry Finn,Mark Twain,1884
+9780553275865,Alice's Adventures in Wonderland,Lewis Carroll,1865
+9780064404990,Where the Red Fern Grows,Wilson Rawls,1961
+9780141182605,The Picture of Dorian Gray,Oscar Wilde,1890
+9780812550702,Ender's Game,Orson Scott Card,1985
+9781400033416,The Book Thief,Markus Zusak,2005
+9780064400022,The Giver,Lois Lowry,1993
+9780679724629,The Brothers Karamazov,Fyodor Dostoyevsky,1880
+9780375842207,The Lightning Thief,Rick Riordan,2005
+9780679415735,The Diary of a Young Girl,Anne Frank,19471,Dicle,Dicle Coban,2002,1

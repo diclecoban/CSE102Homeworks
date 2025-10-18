@@ -1,0 +1,7 @@
+Family tree:
+------------
+Name	Age	Mother	Father
+----	---	------	------
+Dicle   21	Gülşah	Ahmet
+Gülşah	42	-	-
+Ahmet	55	-	-
